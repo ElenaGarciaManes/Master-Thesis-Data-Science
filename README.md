@@ -1,6 +1,6 @@
 # Master-Thesis-Data-Science 
 
-_**Disclaimer**_: Material of the Master Thesis on Public Policy (Hertie School): _**Is all Publicity Good Publicity? The Effect of Media Coverage of EU Affairs on Ins?tu?onal Trust in the EU During the COVID-19 Crisis in the Netherlands.**_
+_**Disclaimer**_: Material of the Master Thesis on Public Policy (Hertie School): _**Is all Publicity Good Publicity? The Effect of Media Coverage of EU Affairs on Institutional Trust in the EU During the COVID-19 Crisis in the Netherlands.**_
 
 **Executive Summary**
 
