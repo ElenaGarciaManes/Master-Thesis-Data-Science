@@ -10,12 +10,7 @@ To investigate these hypotheses, we examine data for the period 2008 to 2021 fro
 
 The results of our analysis shows that there is a positive relationship between consuming media and granting higher levels of trust to the EU. While we could not establish a clear causal relationship to determine the impact of media coverage of EU affairs during the COVID-19 crisis on institutional trust in the EU, we have visually established the association between the COVID-19 crisis scenario and a greater salience of the EU in the news media environment together with more positive coverage of it. Our most robust finding shows that there is a relationship between consuming media and granting higher levels of trust to the EU. This result goes in line with previously hypothesised theories, particularly with Norris’ “virtuous circle” approach for the interpretation of media impact on trust (Norris, 2000). While our results show that during the COVID-19 crisis in the Netherlands, the EU gained salience in the media as well as more positive coverage compared to the period previous to the outbreak of the pandemic, we are not able to demonstrate a causal relationship between media coverage and the COVID-19 crisis.
 
-
-
-git checkout --orphan assets
-git reset --hard
-cp /Users/elena/Documents/Hertie_MPP/2nd_Year/THESIS/figure_4_thesis.png .
-git add .
-git commit -m 'Figure 4'
-git push -u origin assets
-git rev-parse HEAD
+**Visualizations on the evolution of trust in the Netherlands, media consumption patterns and media coverage of the EU**
+<img width="781" alt="figure_3_thesis" src="https://user-images.githubusercontent.com/78790659/199212240-6753f713-2bfd-4824-887d-fd6906e8cd6f.png">
+<img width="793" alt="figure_4_thesis" src="https://user-images.githubusercontent.com/78790659/199212252-1dc47243-f335-4a72-9845-4a36c10b235a.png">
+<img width="763" alt="figure_5_thesis" src="https://user-images.githubusercontent.com/78790659/199212263-84d19d78-7f47-4df4-a818-91dd2404bf71.png">
